@@ -1,0 +1,17 @@
+{
+  "name": "lambda-gz-deploy",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1.50",
+    "request": "^2.61.0",
+    "unzip-to-s3": "git://github.com/divshot/node-unzip-to-s3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
